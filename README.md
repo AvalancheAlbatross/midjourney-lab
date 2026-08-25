@@ -44,4 +44,4 @@ Yes, it's built and tested for Windows.
 
 ## Legal
 > [!NOTE]
-> For personal, lawful use only. Trademarks are the property of their owners.           
+> For personal, lawful use only. Trademarks are the property of their owners.            
